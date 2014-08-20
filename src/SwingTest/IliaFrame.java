@@ -84,6 +84,8 @@ public class IliaFrame extends JFrame {
 		/**
 		 * 
 		 */
+		
+		
 		private static final long serialVersionUID = 1L;
 
 		 int startX;
